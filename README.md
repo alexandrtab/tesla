@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Tesla Clone - it's an app using React ⚛️ and Styled Components
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -6,39 +7,21 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## And that's it ! Cool ! Nice ! Let's see screenshots below
 
-### `yarn test`
+![image](https://user-images.githubusercontent.com/74628686/222907288-e889a057-1d06-4cc5-a26a-0b007ddaf778.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/74628686/222907314-36c9dc89-f5a8-4119-a1fa-8262cb486449.png)
 
-### `yarn build`
+![image](https://user-images.githubusercontent.com/74628686/222907345-6c824723-6d50-40a4-aaf6-594f95b2f841.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/74628686/222907369-89c249b0-19dc-4408-bdd2-51516ca3bb80.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/74628686/222907391-3a7a6f50-6f7c-4055-8fdc-de8261e9ed0b.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
